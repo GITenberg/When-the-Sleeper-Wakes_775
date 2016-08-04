@@ -1,0 +1,54 @@
+_repo: When-the-Sleeper-Wakes_775
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Sleeper Awakes (1910) is a dystopian science fiction novel by H.\
+  \ G. Wells about a man who sleeps for two hundred and three years, waking up in\
+  \ a completely transformed London, where, because of compound interest on his bank\
+  \ accounts, he has become the richest man in the world. The main character awakes\
+  \ to see his dreams realised, and the future revealed to him in all its horrors\
+  \ and malformities.\nThe novel is a rewritten version of When the Sleeper Wakes,\
+  \ a story by Wells that was serialised between 1898 and 1899.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '775'
+  wikidata: Q650949
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Technological innovations -- Fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'Twenty-first century -- Fiction'
+- GITenberg
+title: When the Sleeper Wakes
+url: http://www.gutenberg.org/ebooks/775
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kun_nukkuja_her%C3%A4%C3%A4
+- https://eo.wikipedia.org/wiki/La_dormanto_veki%C4%9Das
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D9%85_%D9%8A%D8%B3%D8%AA%D9%8A%D9%82%D8%B8
+- https://ru.wikiquote.org/wiki/%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0_%D0%A1%D0%BF%D1%8F%D1%89%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BD%D1%91%D1%82%D1%81%D1%8F
+- https://de.wikipedia.org/wiki/Wenn_der_Schl%C3%A4fer_erwacht
+- https://pl.wikipedia.org/wiki/Kiedy_%C5%9Bpi%C4%85cy_budzi_si%C4%99
+- https://en.wikipedia.org/wiki/The_Sleeper_Awakes
+- https://it.wikipedia.org/wiki/Il_risveglio_del_dormiente
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BB%D1%8F%D1%87%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BA%D0%B8%D0%B4%D0%B0%D1%94%D1%82%D1%8C%D1%81%D1%8F
+- https://no.wikipedia.org/wiki/The_Sleeper_Awakes
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0_%D0%A1%D0%BF%D1%8F%D1%89%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BD%D1%91%D1%82%D1%81%D1%8F
+- https://ro.wikipedia.org/wiki/C%C3%A2nd_se_va_trezi_Cel-care-doarme
+- https://tr.wikipedia.org/wiki/Efendi_Uyan%C4%B1yor
