@@ -1,5 +1,8 @@
 _repo: When-the-Sleeper-Wakes_775
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -17,6 +20,8 @@ description: "The Sleeper Awakes (1910) is a dystopian science fiction novel by 
   \ and malformities.\nThe novel is a rewritten version of When the Sleeper Wakes,\
   \ a story by Wells that was serialised between 1898 and 1899.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/775#When-the-Sleeper-Wakes
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
